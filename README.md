@@ -37,6 +37,7 @@ Execute the program using runserver command.
         <th>WEDNESDAY</th>
         <th>THURSDAY</th>
         <th>FRIDAY</th>
+        <th>Saturday</th>
     </tr>
     <tr>
     <td>8-10</td>
@@ -71,7 +72,7 @@ Execute the program using runserver command.
 </tr>
 <tr>
     <td>3-5</td>
-    <td colspan="6">FREEE SLOT</td>
+    <td colspan="6">FREE SLOT</td>
 </tr>
 </table>
 <table border="2" cellspacing="15" cellpadding="5">
